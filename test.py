@@ -1,5 +1,3 @@
-print(1+2)
+import test1
 if __name__ == "__main__":
-    print(100)
-    for i in range(0,10,2):
-        print(i)
+    print(test1.add(1,2))
