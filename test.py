@@ -1,5 +1,5 @@
 import test1
-print(1000)
+print(10000)
 for i in range(100):
     print(i)
 if __name__ == "__main__":
